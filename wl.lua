@@ -1,6 +1,6 @@
 local wl = {
-  '808_Drumsss',
-  'uarenotlikepapael'
+  '2061081000',
+  '3774728898'
 }
 
 return wl
